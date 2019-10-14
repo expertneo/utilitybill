@@ -1,6 +1,3 @@
-/*
- * Copyright (c) 2019 GE. All Rights Reserved.
- */
 package com.utilitybill.web;
 
 import java.time.Instant;
@@ -10,7 +7,6 @@ import org.modelmapper.ModelMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

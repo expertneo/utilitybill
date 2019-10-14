@@ -1,6 +1,3 @@
-/*
- * Copyright (c) 2019 GE. All Rights Reserved.
- */
 package com.utilitybill.configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
